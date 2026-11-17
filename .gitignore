@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+# Training datasets and dataset outputs are generated or downloaded locally.
+data/
+.DS_Store
+*.log
+dist/
+build/
+.idea/
+.vscode/
